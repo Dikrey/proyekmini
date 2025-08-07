@@ -1,8 +1,8 @@
 # proyekmini
  Mini Aplikasi Penjualan Barang, Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan HTML, CSS, dan PHP. Cocok untuk tugas sekolah, portofolio, atau latihan logika pemrograman!
-
-
-Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok untuk proyek GitHub, dengan gaya modern, emoji, dan penjelasan fitur yang menarik. Cocok untuk **Project Mini Sekolah** 🎒✨
+  ![PHP](https://img.shields.io/badge/PHP-8.3.2%2B-777BB4?style=for-the-badge&logo=php)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
@@ -51,7 +51,7 @@ Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok unt
 ![Hasil Penjualan](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_hasil.png)  
 *Halaman Hasil dengan Notifikasi Voucher*
 
-> 🔖 *Catatan: Ganti placeholder dengan screenshot asli saat diunggah!*
+> 🔖 *Catatan: Jalankan server apache*
 
 ---
 
@@ -90,8 +90,6 @@ Kamu bisa:
 - 🔧 Memperbaiki bug  
 - 🌈 Menambah fitur (print, dark mode, dll)  
 - 📝 Memberi saran desain  
-
-Silakan buat **Pull Request** atau **Issue**! 💬
 
 ---
 
