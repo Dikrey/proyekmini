@@ -1,5 +1,10 @@
 # proyekmini
  Mini Aplikasi Penjualan Barang, Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan HTML, CSS, dan PHP. Cocok untuk tugas sekolah, portofolio, atau latihan logika pemrograman!
+
+![PHP](https://img.shields.io/badge/PHP-8.3.2%2B-777BB4?style=for-the-badge&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-5.15.4-339AF0?style=for-the-badge&logo=font-awesome)
 ---
 
 # 🛒 Mini Aplikasi Penjualan Barang - Project Sekolah 🎒
@@ -64,7 +69,7 @@
 ![Hasil Penjualan](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_hasil.png?raw=true)  
 *Hasil transaksi dengan notifikasi voucher dan tombol cetak*
 
-> 🔖 *Catatan: Jalankan dengan server lokal (XAMPP, dll)*
+> 🔖 *Catatan: Jalankan dengan server lokal (XAMPP, Laragon, dll)*
 
 ---
 
@@ -76,8 +81,9 @@
    ```
 
 2. 🖥️ **Jalankan di local server** (XAMPP / Laragon / lainnya)  
-   - Pindahkan folder ke `htdocs` (XAMPP)  
-   - Buka browser: `http://localhost/proyekmini/index.html`
+   - Pindahkan folder ke `htdocs` (XAMPP)
+   - Pindahkan folder ke `WWW` (Laragon)
+   - Buka browser: `http://localhost/proyekmini/index.php`
 
 3. 🚀 **Gunakan Aplikasi**  
    - Isi form → Klik **"Proses"** → Lihat hasil di `hasil.php`  
@@ -145,7 +151,7 @@ Jangan lupa ⭐ **Star** repositori ini agar semangat terus berkarya!
 Semangat belajar coding! 💻🔥
 
 > 🏫 *Project Mini Sekolah - SMKN - 2025*  
-> 👨‍💻 Dikembangkan oleh: **Dikrey & Teman-Teman**
+> 👨‍💻 Dikembangkan oleh: **Dikrey & Visualcodepo**
 ```
 
 ---
