@@ -1,16 +1,13 @@
 # proyekmini
- Mini Aplikasi Penjualan Barang, Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan HTML, CSS, dan PHP. Cocok untuk tugas sekolah, portofolio, atau latihan logika pemrograman!
+ Mini Aplikasi Penjualan Barang, Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan HTML, CSS, JS, dan PHP. Cocok untuk tugas sekolah, portofolio, atau latihan logika pemrograman!
 
-![PHP](https://img.shields.io/badge/PHP-8.3.2%2B-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-5.15.4-339AF0?style=for-the-badge&logo=font-awesome)
 ---
 
 # 🛒 Mini Aplikasi Penjualan Barang - Project Sekolah 🎒
+---
 
 > 🌟 **Project Mini Sederhana untuk Praktik PHP & HTML**  
-> Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan **HTML, CSS, dan PHP**.  
+> Dibuat oleh siswa untuk pembelajaran dasar web development menggunakan **HTML, CSS, JS, dan PHP**.  
 > Cocok untuk tugas sekolah, portofolio, atau latihan logika pemrograman! 💡
 
 ---
