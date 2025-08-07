@@ -45,7 +45,7 @@ Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok unt
 
 ## 🖼️ Tangkapan Layar (Preview)
 
-![Form Input]([img/halaman_index](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_index.png))  
+![Form Input]([img/halaman_index](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_index.png)  
 *Form Input dengan Desain Modern*
 
 ![Hasil Penjualan](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_hasil.png)  
