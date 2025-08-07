@@ -45,10 +45,10 @@ Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok unt
 
 ## 🖼️ Tangkapan Layar (Preview)
 
-![Form Input](img/halaman_index)  
+![Form Input]([img/halaman_index](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_index.png))  
 *Form Input dengan Desain Modern*
 
-![Hasil Penjualan](https://via.placeholder.com/500x600/ebf8ff/3182ce?text=Hasil+Penjualan+%7C+Total+Bayar)  
+![Hasil Penjualan](https://github.com/Dikrey/proyekmini/blob/5eda87d3d01fa39ace5e10191697b70e6709caf6/img/halaman_hasil.png)  
 *Halaman Hasil dengan Notifikasi Voucher*
 
 > 🔖 *Catatan: Ganti placeholder dengan screenshot asli saat diunggah!*
@@ -114,10 +114,7 @@ Semangat belajar coding! 💻🔥
 
 ---
 
-
-
   ![PHP](https://img.shields.io/badge/PHP-8.3.2%2B-777BB4?style=for-the-badge&logo=php)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-Kalau kamu mau, saya juga bisa bantu buatkan **dark mode version** atau **tambahkan fitur print struk**! 😊
