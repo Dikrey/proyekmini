@@ -6,7 +6,6 @@ Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok unt
 
 ---
 
-```markdown
 # 🛒 Mini Aplikasi Penjualan Barang - Project Sekolah 🎒
 
 > 🌟 **Project Mini Sederhana untuk Praktik PHP & HTML**  
@@ -111,15 +110,14 @@ Jangan lupa ⭐ **Star** repositori ini jika kamu suka!
 Semangat belajar coding! 💻🔥
 
 > 🏫 *Project Mini Sekolah - SMKN - 2025*
-```
+
 
 ---
 
 
-  ```markdown
+
   ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-  ```
 
 Kalau kamu mau, saya juga bisa bantu buatkan **dark mode version** atau **tambahkan fitur print struk**! 😊
