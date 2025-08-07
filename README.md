@@ -45,7 +45,7 @@ Tentu! Berikut adalah **file `README.md`** yang keren, informatif, dan cocok unt
 
 ## 🖼️ Tangkapan Layar (Preview)
 
-![Form Input](https://via.placeholder.com/400x600/f0f4f8/667eea?text=Input+Form+%7C+Mini+Penjualan)  
+![Form Input](img/halaman_index)  
 *Form Input dengan Desain Modern*
 
 ![Hasil Penjualan](https://via.placeholder.com/500x600/ebf8ff/3182ce?text=Hasil+Penjualan+%7C+Total+Bayar)  
@@ -116,7 +116,7 @@ Semangat belajar coding! 💻🔥
 
 
 
-  ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php)
+  ![PHP](https://img.shields.io/badge/PHP-8.3.2%2B-777BB4?style=for-the-badge&logo=php)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
