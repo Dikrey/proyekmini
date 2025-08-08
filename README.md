@@ -30,7 +30,8 @@
 
 🎁 **Sistem Voucher Cerdas**  
 - `HEMAT10` → Diskon 10%  
-- `DISKON5000` → Potongan Rp5.000  
+- `DISKON5000` → Potongan Rp5.000
+- `ESEMKA` Potongan RP10.000
 - `FREESHIP` → Gratis ongkir! (pesan khusus)  
 - Validasi otomatis kode voucher ❌✅
 
@@ -124,21 +125,19 @@ Kamu bisa:
 - 🌈 Menambah fitur (dark mode, simpan ke file, dll)  
 - 📝 Memberi saran desain atau UX  
 - 🌟 **Beri ⭐ Star** jika kamu suka!
-
-Silakan buat **Pull Request** atau **Issue**! 💬
-
 ---
 
 ## 📄 Lisensi
 
-Proyek ini **bebas digunakan** untuk:
+Proyek ini **bebas digunakan dan tetap mencantumkan nama pembuat** untuk:
 - Tugas sekolah 🏫  
 - Modifikasi belajar 🔧  
 - Portofolio pribadi 📂  
 
 ❌ **Tidak untuk diperjualbelikan.**  
-Dibuat dengan 💖 oleh siswa, untuk siswa.
+Dibuat dengan 💖 oleh Dikrey, untuk siswa.
 
+✅**Tetap mencantumkan nama pembuat**
 ---
 
 ## 🎉 Terima Kasih!
