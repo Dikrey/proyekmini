@@ -143,7 +143,7 @@ Dibuat dengan 💖 oleh Dikrey, untuk siswa/i.
 
 > ⚠️ **Jangan hapus atau ganti nama pembuat asli.**
 
-Bot ini dibuat dengan **waktu, usaha, dan hati** oleh:
+Website ini dibuat dengan **waktu, usaha, dan hati** oleh:
 > 💙 **@raihan_official0307**
 
 Jika kamu:
