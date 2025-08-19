@@ -135,7 +135,36 @@ Proyek ini **bebas digunakan dan tetap mencantumkan nama pembuat** untuk:
 - Portofolio pribadi 📂  
 
 ❌ **Tidak untuk diperjualbelikan.**  
-Dibuat dengan 💖 oleh Dikrey, untuk siswa.
+Dibuat dengan 💖 oleh Dikrey, untuk siswa/i.
+
+
+
+## 🛑 Peringatan Penting: Hargai Pembuat Asli
+
+> ⚠️ **Jangan hapus atau ganti nama pembuat asli.**
+
+Bot ini dibuat dengan **waktu, usaha, dan hati** oleh:
+> 💙 **@raihan_official0307**
+
+Jika kamu:
+- 🔁 Re-upload
+- 🔄 Re-Post
+- 📦 Re-Compile
+- ☁️ Re-Host
+
+👉 **Tetap cantumkan kredit asli.**
+
+### ❌ DILARANG:
+- Mengaku sebagai pembuat asli
+- Menghapus/mengganti nama `@raihan_official0307`
+- Menjual seolah ini karya sendiri
+
+### ✅ DIIZINKAN:
+- Belajar
+- Bagikan — **dengan kredit**
+
+---
+
 
 ✅**Tetap mencantumkan nama pembuat**
 ---
