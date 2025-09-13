@@ -249,7 +249,7 @@ $total_bayar = $total - $potongan_harga;
 
         <div class="print-only receipt-header">
             <h2 style="margin-bottom: 5px;">Toko Serba Ada</h2>
-            <p style="margin: 5px 0;">Jl. Menteng No. 06, Kota Medan</p>
+            <p style="margin: 5px 0;">Jl. Dimana aja No. 00, Indonesia</p>
             <p style="margin: 5px 0;">Telp: (021) 123-4567</p>
             <p style="margin: 5px 0;"><?= $tanggal_transaksi ?></p>
             <p style="margin: 5px 0;">Kasir: Owner</p>
